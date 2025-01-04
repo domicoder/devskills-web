@@ -2,12 +2,6 @@
     <img src="https://img001.prntscr.com/file/img001/1Ufcbg1TTviJY8TjoW5Yew.png" alt="Members area" />
 </h1>
 
-<p align="center">
-    <a href="https://travis-ci.org/domicoder/devskills-web">
-        <img src="https://travis-ci.org/domicoder/devskills-web.svg?branch=main" />
-    </a>
-</p>
-
 # Devskills VUE - NC form
 
 Landing page with [Vue.js](https://vuejs.org/), [Vuetify](https://vuetifyjs.com/) and [Restify (backend)](https://github.com/restify/node-restify).
@@ -42,7 +36,7 @@ Open Demo: [Devskills web](https://devskillsvue.netlify.app/)
 
 ##### Configuring API
 
-`$ cd restify-restful-api`
+`$ cd devskills-api`
 
 `$ npm install`
 
